@@ -1,0 +1,28 @@
+{
+  "name": "graphql_movie",
+  "version": "1.0.0",
+  "description": "Graph_nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u0016",
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojojojo1322/graphql_movie.git"
+  },
+  "author": "jojojojo1322",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojojojo1322/graphql_movie/issues"
+  },
+  "homepage": "https://github.com/jojojojo1322/graphql_movie#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}
