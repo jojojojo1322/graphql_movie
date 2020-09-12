@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jojojojo1322/graphql_movie#readme",
   "dependencies": {
     "graphql-yoga": "^1.18.3",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
